@@ -4,3 +4,5 @@ The final version of exoknee mechanical design. Most parts are 3D printed with n
 3. steel bearings x1, for idler gear
 4. A85 PU cords
 5. carbon fiber tubings x 4
+6. servo motor, HLU-C45M
+7. K-Tech BLDC with gearbox, encoder, and torque sensor

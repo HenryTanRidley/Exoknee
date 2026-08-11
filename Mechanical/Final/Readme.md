@@ -1,4 +1,4 @@
-The final version of exoknee mechanical design. Most parts are 3D printed with nylon. Screws and springs for brakes are not included. 
+The final version of exoknee mechanical design. Most parts are 3D printed with nylon. Screws and springs for brakes are not included. The brakes are made with copper.
 
 The lengths of brake1，2，3 need to be adjusted for best braking effect since there is dimensional uncertainty in 3D-printed parts.
 

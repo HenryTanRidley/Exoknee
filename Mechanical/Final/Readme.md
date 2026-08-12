@@ -6,7 +6,7 @@ All gears are off-the-shelf copper spur gears with m=2. Other components purchas
 1. PP bearings x3, for motor pulleys
 2. steel bearings x2, for cam axis
 3. steel bearings x1, for idler gear
-4. A85 PU cords
+4. PU cords
 5. carbon fiber tubings x 4
 6. servo motor, HMU-B50
 7. K-Tech BLDC with gearbox and encoder

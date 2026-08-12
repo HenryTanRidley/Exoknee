@@ -10,3 +10,5 @@ All gears are off-the-shelf copper spur gears with m=2. Other components purchas
 5. carbon fiber tubings x 4
 6. servo motor, HMU-B50
 7. K-Tech BLDC with gearbox and encoder
+
+See Exoknee_BOM file for a complete list.

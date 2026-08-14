@@ -2,39 +2,39 @@ Exoknee BOM, rev1.0
 Yueshan Tan, 8/3/2026
 
 Part				Part Number			Manufacturer			Material 		Quantity
-Motor			MG4010E-i36 V3		K-Tech				AL case		1
-Servo motor		HMU-B50				JOHO				AL case		1
-Servo gear		M0.5-20				JOHO				Steel			1
-PU cord			6mm					Xiniade				PU			1m
-PU cord			4.25mm				Xiniade				PU			1m
-PU cord			3mm					Xiniade				PU			1m
-Rail_tubing 		SMT9-10x250			Hongwangxin			Carbon fiber	4
-Actuator tower		Tower1				3D printed			Nylon		2
-Passive wheel		Wheel2				3D printed			Nylon		1
-Active wheel		Wheel				3D printed			Nylon		1 
-Pulley halfwheel	Halfwheel				3D printed			Nylon		4
-Cam axis			Tulun				3D printed			Nylon		1
-6mm Brake		Brake3				Customized			Copper		1
-4.3mm Brake		Brake2				Customized			Copper		1
-3mm Brake		Brake1				Customized			Copper		1
+Motor				MG4010E-i36 V3		K-Tech					AL case			1
+Servo motor			HMU-B50				JOHO					AL case			1
+Servo gear			M0.5-20				JOHO					Steel			1
+PU cord				6mm					Xiniade					PU				1m
+PU cord				4.25mm				Xiniade					PU				1m
+PU cord				3mm					Xiniade					PU				1m
+Rail_tubing 		SMT9-10x250			Hongwangxin				Carbon fiber	4
+Actuator tower		Tower1				3D printed				Nylon			2
+Passive wheel		Wheel2				3D printed				Nylon			1
+Active wheel		Wheel				3D printed				Nylon			1 
+Pulley halfwheel	Halfwheel			3D printed				Nylon			4
+Cam axis			Tulun				3D printed				Nylon			1
+6mm Brake			Brake3				Customized				Copper			1
+4.3mm Brake			Brake2				Customized				Copper			1
+3mm Brake			Brake1				Customized				Copper			1
 Pulley bearing 		Zhoucheng6001-12-28-8	JZN					PP			4
-Cam bearing		Bear1-6x12x4			RQ					Steel			2
-Idler gear bearing	MR84B4-ZZ P5(4*8*4)	ZCY					Steel			1
-Servo gear		M0.5-20				YIMID				Copper		2
-Idler gear			M0.5-39				YIMID				Copper		1
-Slide platform		Tuobanyuan			3D printed			Nylon		1
-Link joint			Joint1				3D printed			Nylon		2
-Link1 			Link1					3D printed			Nylon		1
-Link3 			Link3					3D printed			Nylon		1
-Bearing cover		Bear4-2				3D printed			Nylon		3
-Interlink			Interlink-2				3D printed			Nylon		1
-Brace			Brace2-12				3D printed			Nylon		1
-Axis cover			Axiscover2			3D printed			Nylon		1
-Skhead Cap Screw	M3x10				YISE					SS304		14
-Skhead Cap Screw	M2.5x10				YISE					SS304		6
-Countersunk Screw	M3x5				YISE					SS304		8
-Hex nut			M3x3				YISE					SS30			4
-Pin				35x8					OUQI				SS304		2
+Cam bearing			Bear1-6x12x4		RQ						Steel			2
+Idler gear bearing	MR84B4-ZZ P5(4*8*4)	ZCY						Steel			1
+Servo gear			M0.5-20				YIMID					Copper			2
+Idler gear			M0.5-39				YIMID					Copper			1
+Slide platform		Tuobanyuan			3D printed				Nylon			1
+Link joint			Joint1				3D printed				Nylon			2
+Link1 				Link1				3D printed				Nylon			1
+Link3 				Link3				3D printed				Nylon			1
+Bearing cover		Bear4-2				3D printed				Nylon			3
+Interlink			Interlink-2			3D printed				Nylon			1
+Brace				Brace2-12			3D printed				Nylon			1
+Axis cover			Axiscover2			3D printed				Nylon			1
+Skhead Cap Screw	M3x10				YISE					SS304			14
+Skhead Cap Screw	M2.5x10				YISE					SS304			6
+Countersunk Screw	M3x5				YISE					SS304			8
+Hex nut				M3x3				YISE					SS304			4
+Pin					35x8				OUQI					SS304			2
 
 
 	
